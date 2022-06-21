@@ -1,6 +1,5 @@
 Nom projet: Projet de PYTHON , Métadonnées de fichiers MP3/FLAC et playlist XSPF
 
-Lien GITHUB : https://github.com/achrefG/spotifake/tree/master
 
 Réaliser par : 
 ABERKANE Mehdi GROUPE D 
